@@ -1,5 +1,5 @@
 # Harrison Hemstreet
-#### Team Money @ Younique
+#### Team Money @ Younique Products
 
 - 🔭 I’m currently working on furthering the work of Rustlings- a way to help new comers learn the language
 - 🌱 I’m currently learning Amazon Web Services
