@@ -7,5 +7,5 @@
 - 🤔 I’m looking for help with WebAssembly, Rust and AWS
 - 💬 Ask me about running 🏃‍
 - 📫 How to reach me: Twitter: @TheHemstreet Email: harrisonhemstreet@gmail.com Carrier Pigeon: he'll know the way
-- 😄 Pronouns: he/him
+- 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Rust is superior to Go
