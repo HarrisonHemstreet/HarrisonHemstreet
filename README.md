@@ -9,3 +9,5 @@
 - 📫 How to reach me: Twitter: @TheHemstreet Email: harrisonhemstreet@gmail.com Carrier Pigeon: he'll know the way
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Rust is superior to Go
+
+# Consecutive Days With Contributions: 2
