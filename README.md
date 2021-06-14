@@ -10,4 +10,4 @@
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: Rust is superior to Go
 
-# Consecutive Days With Contributions: 2
+# Consecutive Days With Contributions: 1
